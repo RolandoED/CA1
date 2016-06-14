@@ -1,0 +1,15 @@
+c:\users\programacion\documents\visual studio 2013\Projects\CA1\CA1\bin\Debug\CA1.exe.config
+c:\users\programacion\documents\visual studio 2013\Projects\CA1\CA1\bin\Debug\CA1.exe
+c:\users\programacion\documents\visual studio 2013\Projects\CA1\CA1\bin\Debug\CA1.pdb
+c:\users\programacion\documents\visual studio 2013\Projects\CA1\CA1\obj\Debug\CA1.csprojResolveAssemblyReference.cache
+c:\users\programacion\documents\visual studio 2013\Projects\CA1\CA1\obj\Debug\CA1.exe
+c:\users\programacion\documents\visual studio 2013\Projects\CA1\CA1\obj\Debug\CA1.pdb
+C:\Users\jorge.aguilar\Documents\CA1-master\CA1\bin\Debug\CA1.exe.config
+C:\Users\jorge.aguilar\Documents\CA1-master\CA1\obj\Debug\CA1.exe
+C:\Users\jorge.aguilar\Documents\CA1-master\CA1\obj\Debug\CA1.pdb
+C:\Users\jorge.aguilar\Documents\CA1-master\CA1\bin\Debug\CA1.exe
+C:\Users\jorge.aguilar\Documents\CA1-master\CA1\bin\Debug\CA1.pdb
+C:\Users\jorge.aguilar\Documents\CA1-master\CA1\obj\Debug\CA1.csprojResolveAssemblyReference.cache
+C:\Users\jorge.aguilar\Documents\CTest\CA1\bin\Debug\CA1.exe.config
+C:\Users\jorge.aguilar\Documents\CTest\CA1\obj\Debug\CA1.exe
+C:\Users\jorge.aguilar\Documents\CTest\CA1\obj\Debug\CA1.pdb
